@@ -5,7 +5,7 @@ A curated list of useful resources for learing programming.
 
 ## 优秀的 blog
 * [**Peter Norvig**](<http://norvig.com/)  谷歌大神 **Peter Norvig** 的个人网站，包含了很多独特的编程见解，比如那篇著名的  [**Teach Yourself Programming in Ten Years**](https://norvig.com/21-days.html ) 。
-* [**酷 壳 – COOLSHELL ** ](https://coolshell.cn/) 左耳朵耗子的个人网站。
+* [**COOLSHELL ** ](https://coolshell.cn/) 左耳朵耗子的个人网站。
 * [**美团技术团队**](https://tech.meituan.com/)  美团点评技术团队的博客，对于底层知识的讲解十分的细致和清晰，偏向于原理。
 * [**IBM Developer**](https://developer.ibm.com/)  网站，有很多优秀的文章，质量很高，中英文文章都有，尤其是与  **Java** 有关的，可以说仅次于 **Oracle** 官方文档。
 * [**阮一峰**](www.ruanyifeng.com/home.html) 阮一峰的个人网站包含很多 **wired** 的见解。
