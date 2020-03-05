@@ -8,7 +8,7 @@ A curated list of useful resources for learning programming.
 * [**COOLSHELL** ](https://coolshell.cn/) 左耳朵耗子的个人网站。
 * [**美团技术团队**](https://tech.meituan.com/)  美团点评技术团队的博客，对于底层知识的讲解十分的细致和清晰，偏向于原理。
 * [**IBM Developer**](https://developer.ibm.com/)  网站，有很多优秀的文章，质量很高，中英文文章都有，尤其是与  **Java** 有关的，可以说仅次于 **Oracle** 官方文档。
-* [**阮一峰**](www.ruanyifeng.com/home.html) 阮一峰的个人网站包含很多 **wired** 的见解。
+* [**阮一峰**](www.ruanyifeng.com/home.html) 阮一峰的个人网站包含很多 **strange** 的见解。
 * [**MDN**](https://developer.mozilla.org/) 火狐 **web** 学习网站，包含 **Http** 、**JavaScript** 、**Html**、**Css** 等等，非常好的 **web** 学习网站。
 * [**Java 性能调优**](http://java-performance.info/) **Java** 性能调优网站，包括不限于 **Jvm 调优** 、**集合调优** 等等
 * [**DZone**](https://dzone.com/) 著名的技术 **Blog**，包含了**架构**、**微服务**等方方面面
