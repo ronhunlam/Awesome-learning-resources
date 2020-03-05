@@ -1,5 +1,5 @@
 # Awesome-learning-resources
-A curated list of useful resources for learing programming.
+A curated list of useful resources for learning programming.
 
 学习 **Java** 开发也有几年时间了，这期间积累了很多实用的资源，包括不限于 **blog**、开源项目等等，抽空整理一下，放到这个 **repo** 上面，希望能帮助到有需要的人 :)
 
